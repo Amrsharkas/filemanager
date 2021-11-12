@@ -54,8 +54,9 @@
 }
 .btn-secondary.disabled, .btn-secondary:disabled{
 	background-color: #f1f1f1;
-	</style>
 }
+	</style>
+
 </head>
 <body>
 <div id="fm"></div>
